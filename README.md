@@ -13,7 +13,7 @@ Current Projects
 . smp-tracker: Daily performance tracker with ML-powered coaching
 . api-dashboard: Multi-endpoint data dashboard with pandas reports
 . browser-coach: Client-side AI coaching tool in JavaScript
-. weather forecast dashboard
+. weather forecast dashboard(https://github.com/onyangojuma2000-rgb/codeman/commit/4cf05ba2fc3d59c3627177138a855ba57777de3f)
 Stack
 Python • FastAPI • Pandas • scikit-learn • JavaScript • Git • Supabase
 projects link(https://github.com/onyangojuma2000-rgb/codeman)
