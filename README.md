@@ -18,5 +18,11 @@ Stack
 Python • FastAPI • Pandas • scikit-learn • JavaScript • Git • Supabase
 projects link(https://github.com/onyangojuma2000-rgb/codeman)
 
+project samples: Complaint_reply_generator(https://complaint-reply-generator.onrender.com)
+description:### AI Complaint Reply Generator
+
+A web-based AI tool that transforms customer complaints into polite, professional, and helpful reply drafts. It is designed for small businesses in Nairobi, including shops, restaurants, courier services, and Airbnb operators who want to respond to customer complaints quickly and professionally without spending too much time writing replies. It helps improve customer communication, maintain business relationships, and save time. Built with **Python, Flask, Anthropic Claude AI, HTML, CSS, and JavaScript**. 
+
+**Live Demo:** [https://complaint-reply-generator.onrender.com]
 
 
