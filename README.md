@@ -18,7 +18,7 @@ Stack
 Python • FastAPI • Pandas • scikit-learn • JavaScript • Git • Supabase
 projects link(https://github.com/onyangojuma2000-rgb/codeman)
 
-PROJECT:
+PROJECT SAMPLES:
 Complaint_reply_generator(https://complaint-reply-generator.onrender.com)
 description:### AI Complaint Reply Generator
 
