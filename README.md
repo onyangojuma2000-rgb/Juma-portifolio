@@ -29,4 +29,5 @@ A web-based AI tool that transforms customer complaints into polite, professiona
 
 # File automation: A CLI tool that helps in sorting files in a messy folder within seconds (https://github.com/onyangojuma2000-rgb/codeman/commit/75e598388aaa17811f249dfe76cadfddf06aacd4)
 
-
+# Daily-Sales-Automation Report
+description: https://github.com/onyangojuma2000-rgb/Sample-client-Ready-_Deliverable-Project/blob/main/SERVICE_DESCRIPTION.md
