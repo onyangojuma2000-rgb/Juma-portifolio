@@ -31,3 +31,27 @@ A web-based AI tool that transforms customer complaints into polite, professiona
 
 # Daily-Sales-Automation Report
 description: https://github.com/onyangojuma2000-rgb/Sample-client-Ready-_Deliverable-Project/blob/main/SERVICE_DESCRIPTION.md
+
+# Furniture Business AI Assistant
+
+**What it does:** An AI chatbot that answers customer questions using furniture business FAQs, product catalogues, and uploaded documents.
+
+**Who it helps:** Furniture shops, dealers, and woodworking workshops in Kenya.
+
+**Problem solved:** Reduces repetitive customer inquiries, saves time, and improves customer service.
+
+**Key Features:**
+- AI-powered customer support.
+- PDF, DOCX, and TXT document processing.
+- Business information retrieval.
+- Error handling, retry logic, and logging.
+
+**Technology:** Python, Flask, Claude Haiku 4.5, HTML/CSS, Pytest.
+
+**Business Value:** Helps furniture businesses respond to customers faster and manage inquiries more efficiently.
+
+**Project Links:**
+- Live Demo: https://project-ai-application-chatbot-2.onrender.com
+- GitHub: 
+-
+**Status:** Developed and tested; deployment in progress.
