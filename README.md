@@ -52,6 +52,6 @@ description: https://github.com/onyangojuma2000-rgb/Sample-client-Ready-_Deliver
 
 **Project Links:**
 - Live Demo: https://project-ai-application-chatbot-2.onrender.com
-- GitHub: 
--
-**Status:** Developed and tested; deployment in progress.
+- GitHub: https://github.com/onyangojuma2000-rgb/Project-AI_application-chatbot
+
+
