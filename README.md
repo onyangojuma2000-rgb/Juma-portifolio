@@ -66,5 +66,5 @@ description: https://github.com/onyangojuma2000-rgb/Sample-client-Ready-_Deliver
 
 **Live link:** https://content-studios.onrender.com
 
-**GitHub:** 
+**GitHub:** https://github.com/onyangojuma2000-rgb/content_studios
 
