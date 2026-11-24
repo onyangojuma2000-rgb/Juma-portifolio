@@ -54,4 +54,17 @@ description: https://github.com/onyangojuma2000-rgb/Sample-client-Ready-_Deliver
 - Live Demo: https://project-ai-application-chatbot-2.onrender.com
 - GitHub: https://github.com/onyangojuma2000-rgb/Project-AI_application-chatbot
 
+# Content Pipeline_Studio AI
+
+**What it does:** Converts a topic or webpage URL into a complete content package containing a blog post, five X (Twitter) posts, and one LinkedIn post.
+
+**Who it helps:** Digital marketing agencies, social media managers, content creators, and small businesses in Kenya.
+
+**Problem it solves:** Reduces the time spent manually researching topics, drafting blog articles, and creating content for multiple social media platforms.
+
+**Stack:** Python, Flask, Anthropic Claude Haiku 4.5 API, HTML, CSS, JavaScript, deployed on Render.
+
+**Live link:** https://content-studios.onrender.com
+
+**GitHub:** 
 
